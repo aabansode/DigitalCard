@@ -324,7 +324,7 @@ body {
     }
     .card__date {
         position: absolute;
-        top: 186px;
+        top: 214px;
         right: 20px;
         width: 45px;
         height: 45px;
@@ -350,7 +350,7 @@ body {
 @media only screen and (max-width: 360px){
     .card__date {
         position: absolute;
-        top: 174px;
+        top: 196px;
         right: 20px;
         width: 45px;
         height: 45px;
@@ -368,7 +368,7 @@ body {
 @media only screen and (max-width: 320px){
     .card__date {
         position: absolute;
-        top: 148px;
+        top: 172px;
         right: 20px;
         width: 45px;
         height: 45px;
